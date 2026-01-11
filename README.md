@@ -24,7 +24,7 @@ Instead of manually asking the same question across multiple AI platforms, this 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/multi-ai-consensus-system.git
+git clone https://github.com/Amazthegame/multi-ai-consensus-system.git
 cd multi-ai-consensus-system
 ```
 
@@ -64,16 +64,14 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-Ahmed - your.email@example.com
+Ahmed - amazhar969@gmail.com
 
-Project Link: [https://github.com/YOUR-USERNAME/multi-ai-consensus-system](https://github.com/YOUR-USERNAME/multi-ai-consensus-system)
+Project Link: [https://github.com/Amazthegame/multi-ai-consensus-system](https://github.com/Amazthegame/multi-ai-consensus-system)
 
 ---
 
 ⭐ If you found this helpful, please star this repository!
 ```
-
-Replace `YOUR-USERNAME` and `your.email@example.com` with your actual information.
 
 ## 📤 Now Publish to GitHub
 
